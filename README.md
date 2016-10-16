@@ -10,7 +10,7 @@ Készítette: Polacsek Attila
 
 A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítségével nyilván tarthatjuk, hogy mely játékokkal szeretnénk játszani, illetve mely játékokat vittük már végig. A játékokat egy nagy játékadatbázisból választhatjuk ki, a kiválasztott játékhoz megadhatjuk, hogy mennyire szeretnénk vele játszani, a játékokat kijátszás után értékelhetjük, illetve a játékokhoz bármikor írhatunk kommenteket. Az adatok védelme érdekében legyen lehetőség regisztrációra, majd bejelentkezésre. Bejelentkezett felhasználó a kijátszani szánt játékok listáját megtekintheti, bővítheti, meglévő elemeket törölhet, valamit megjegyzéseket írhat.
 
-Funkcionális követelmények:
+#####Funkcionális követelmények:
 - Regisztráció
 - Bejelentkezés
 - Játéklista megtekintése
@@ -21,10 +21,11 @@ Funkcionális követelmények:
  *	komment írása, illetve törlése
 
 
-Nem funkcionális követelmények:
-•	Felhasználóbarát, ergonomikus elrendezés és kinézet.
-•	Gyors működés.
-•	Biztonságos működés: jelszavak tárolása, funkciókhoz való hozzáférés.
+#####Nem funkcionális követelmények:
+-	Felhasználóbarát, ergonomikus elrendezés és kinézet.
+-	Gyors működés.
+-	Biztonságos működés: jelszavak tárolása, funkciókhoz való hozzáférés.
+
 1.2. Szakterületi fogalomjegyzék
 Videojáték: olyan játék, amellyel a játékos egy felhasználói felületen keresztül lép kölcsönhatásba (interakcióba) és arról egy kijelző eszközön keresztül kap visszajelzéseket.
 1.3. Szerepkörök
