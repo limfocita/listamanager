@@ -53,11 +53,13 @@ A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítsé
 ![Folyamatok meghatározása](docs/alkfej02.png)
 
 ###1.6. Oldaltérkép
+
 #####Publikus:
 -	Főoldal
 -	Videojátékok böngészése
 -	Bejelentkezés
 -	Regisztráció
+
 #####Felhasználó:
 -	Kilépés
 -	Új videojáték felvétele
