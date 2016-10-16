@@ -15,10 +15,10 @@ Funkcionális követelmények:
 - Bejelentkezés
 - Játéklista megtekintése
 - Csak bejelentkezett felhasználók által elérhető funkciók:
-* új játék felvétele az érdekelt / végigvitt játékok listájába
-* meglévő játék törlése az érdekelt / végigvitt játékok listájáról
-* érdekelt játékok érdekeltségi fokozatának megváltoztatása
-*	komment írása, illetve törlése
+ * új játék felvétele az érdekelt / végigvitt játékok listájába
+ * meglévő játék törlése az érdekelt / végigvitt játékok listájáról
+ * érdekelt játékok érdekeltségi fokozatának megváltoztatása
+ *	komment írása, illetve törlése
 
 
 Nem funkcionális követelmények:
