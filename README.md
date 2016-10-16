@@ -35,11 +35,14 @@ A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítsé
 
 ###1.4. Használati esetek
 
-![Kép felirata](docs/alkfej.png)
+![Használati esetek](docs/alkfej.png)
  
 ###1.5. Folyamatok meghatározás
  
- 
+![Folyamatok meghatározása](docs/alkfej01.png)
+
+![Folyamatok meghatározása](docs/alkfej02.png)
+
 ###1.6. Oldaltérkép
 #####Publikus:
 -	Főoldal
@@ -78,17 +81,33 @@ A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítsé
 
 #####Főoldal
  
+![Főoldal vázlata](docs/alkfej03.png)
+ 
 #####Regisztrációs oldal
- 
+
+![Regisztrációs oldal vázlata](docs/alkfej04.png)
+
 #####Bejelentkező oldal
- 
+
+![Bejelentkező oldal vázlata](docs/alkfej05.png)
+
 #####Videojáték listaoldal
- 
+
+![Videojáték listaoldal vázlata](docs/alkfej06.png)
+
 #####Új játék felvétele
- 
-#####Játék megtekintése
- 
+
+![Új játék felvételére lehetőséget adó oldal vázlata](docs/alkfej07.png)
+
+#####Videojáték megtekintése
+
+![Videojáték adatlap oldal vázlata](docs/alkfej08.png)
+
 ###1.9. Adatmodell
- 
+
+![Adatmodell](docs/alkfej09.png)
+
 ###1.10. Adatbázisterv
+
+![Adatmodell](docs/alkfej10.png)
  
