@@ -2,7 +2,7 @@
 
 # listamanager videojátékokhoz
 
-Készítette: Polacsek Attila
+##Készítette: Polacsek Attila
 
 1. Követelményanalízis
 
