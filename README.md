@@ -1,10 +1,10 @@
 #Dokumentáció
 
-# listamanager videojátékokhoz
+#Listamanager videojátékokhoz
 
 ##Készítette: Polacsek Attila
 
-1. Követelményanalízis
+##1. Követelményanalízis
 
 1.1. Célkitűzés, projektindító dokumentum
 
