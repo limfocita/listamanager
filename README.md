@@ -11,13 +11,13 @@ Készítette: Polacsek Attila
 A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítségével nyilván tarthatjuk, hogy mely játékokkal szeretnénk játszani, illetve mely játékokat vittük már végig. A játékokat egy nagy játékadatbázisból választhatjuk ki, a kiválasztott játékhoz megadhatjuk, hogy mennyire szeretnénk vele játszani, a játékokat kijátszás után értékelhetjük, illetve a játékokhoz bármikor írhatunk kommenteket. Az adatok védelme érdekében legyen lehetőség regisztrációra, majd bejelentkezésre. Bejelentkezett felhasználó a kijátszani szánt játékok listáját megtekintheti, bővítheti, meglévő elemeket törölhet, valamit megjegyzéseket írhat.
 
 Funkcionális követelmények:
--Regisztráció
--Bejelentkezés
--Játéklista megtekintése
--Csak bejelentkezett felhasználók által elérhető funkciók:
-*új játék felvétele az érdekelt / végigvitt játékok listájába
-*meglévő játék törlése az érdekelt / végigvitt játékok listájáról
-*érdekelt játékok érdekeltségi fokozatának megváltoztatása
+- Regisztráció
+- Bejelentkezés
+- Játéklista megtekintése
+- Csak bejelentkezett felhasználók által elérhető funkciók:
+* új játék felvétele az érdekelt / végigvitt játékok listájába
+* meglévő játék törlése az érdekelt / végigvitt játékok listájáról
+* érdekelt játékok érdekeltségi fokozatának megváltoztatása
 *	komment írása, illetve törlése
 
 
