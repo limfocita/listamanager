@@ -26,62 +26,67 @@ A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítsé
 -	Gyors működés.
 -	Biztonságos működés: jelszavak tárolása, funkciókhoz való hozzáférés.
 
-1.2. Szakterületi fogalomjegyzék
-Videojáték: olyan játék, amellyel a játékos egy felhasználói felületen keresztül lép kölcsönhatásba (interakcióba) és arról egy kijelző eszközön keresztül kap visszajelzéseket.
-1.3. Szerepkörök
-•	vendég: videojátékok keresését, böngészését és megtekintését végezheti. Illetve regisztrálhat az oldalra.
-•	felhasználó: a vendég szerepkörén túl a saját érdekelt játékok kezelésére (új, módosít, törlés) képes.
-1.4. Használati esetek
+###1.2. Szakterületi fogalomjegyzék
+**Videojáték:** olyan játék, amellyel a játékos egy felhasználói felületen keresztül lép kölcsönhatásba (interakcióba) és arról egy kijelző eszközön keresztül kap visszajelzéseket.
+
+###1.3. Szerepkörök
+-	**vendég**: videojátékok keresését, böngészését és megtekintését végezheti. Illetve regisztrálhat az oldalra.
+-	**felhasználó**: a vendég szerepkörén túl a saját érdekelt játékok kezelésére (új, módosít, törlés) képes.
+
+###1.4. Használati esetek
  
-1.5. Folyamatok meghatározás
+###1.5. Folyamatok meghatározás
  
  
-1.6. Oldaltérkép
-Publikus:
-•	Főoldal
-•	Videojátékok böngészése
-•	Bejelentkezés
-•	Regisztráció
-Felhasználó:
-•	Kilépés
-•	Új videojáték felvétele
-•	Listaoldal 
-o	Videojáték törlése
-o	Videojáték érdekeltségi fokozatának beállítása
-o	Videojáték áttétele a kijátszottak közé
-•	Videojáték adatlapja
-o	komment írása
-1.7. Végpontok
-•	GET/: főoldal
-•	GET/login: bejelentkező oldal
-•	POST/login: bejelentkező adatok felküldése
-•	GET/login/signup: regisztrációs oldal
-•	POST/login/signup: regisztrációs adatok felküldése
-•	GET/logout: kijelentkező oldal
-•	GET/videogames/list: videojátéklista oldal
-•	GET/ videogames /new: új videojáték felvétele
-•	POST/ videogames /new: új videojáték felvételéhez szükséges adatok felküldése
-•	GET/ videogames /id: videojáték adatok
-•	GET/ videogames /delete=id: videojáték törlése a listából
-•	POST/ videogames /edit=id: érdekeltségi fokozat módosítása
-•	POST/comments/id: új hozzászólás felvitele
-•	GET/ comments /delete=id: hozzászólás törlése
-•	GET/ comments /edit=id: hozzászólás módosítása
-•	POST/ comments /edit=id: hozzászólás módosítása, adatok felküldése
-1.7. Oldalvázlatok
-Főoldal
+###1.6. Oldaltérkép
+#####Publikus:
+-	Főoldal
+-	Videojátékok böngészése
+-	Bejelentkezés
+-	Regisztráció
+#####Felhasználó:
+-	Kilépés
+-	Új videojáték felvétele
+-	Listaoldal 
+ *	Videojáték törlése
+ *	Videojáték érdekeltségi fokozatának beállítása
+ *	Videojáték áttétele a kijátszottak közé
+-	Videojáték adatlapja
+ *	komment írása
  
-Regisztrációs oldal
+###1.7. Végpontok
+-	GET/: főoldal
+-	GET/login: bejelentkező oldal
+-	POST/login: bejelentkező adatok felküldése
+-	GET/login/signup: regisztrációs oldal
+-	POST/login/signup: regisztrációs adatok felküldése
+-	GET/logout: kijelentkező oldal
+-	GET/videogames/list: videojátéklista oldal
+-	GET/ videogames /new: új videojáték felvétele
+-	POST/ videogames /new: új videojáték felvételéhez szükséges adatok felküldése
+-	GET/ videogames /id: videojáték adatok
+-	GET/ videogames /delete=id: videojáték törlése a listából
+-	POST/ videogames /edit=id: érdekeltségi fokozat módosítása
+-	POST/comments/id: új hozzászólás felvitele
+-	GET/ comments /delete=id: hozzászólás törlése
+-	GET/ comments /edit=id: hozzászólás módosítása
+-	POST/ comments /edit=id: hozzászólás módosítása, adatok felküldése
+
+###1.8. Oldalvázlatok
+
+#####Főoldal
  
-Bejelentkező oldal
+#####Regisztrációs oldal
  
-Videojáték listaoldal
+#####Bejelentkező oldal
  
-Új játék felvétele
+#####Videojáték listaoldal
  
-Játék megtekintése
+#####Új játék felvétele
  
-1.7. Adatmodell
+#####Játék megtekintése
  
-1.8. Adatbázisterv
+###1.9. Adatmodell
+ 
+###1.10. Adatbázisterv
  
