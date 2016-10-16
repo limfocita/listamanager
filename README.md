@@ -81,27 +81,27 @@ A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítsé
 
 #####Főoldal
  
-![Főoldal vázlata](docs/alkfej03.png)
+![Főoldal vázlata](docs/alkfej03.jpg)
  
 #####Regisztrációs oldal
 
-![Regisztrációs oldal vázlata](docs/alkfej04.png)
+![Regisztrációs oldal vázlata](docs/alkfej04.jpg)
 
 #####Bejelentkező oldal
 
-![Bejelentkező oldal vázlata](docs/alkfej05.png)
+![Bejelentkező oldal vázlata](docs/alkfej05.jpg)
 
 #####Videojáték listaoldal
 
-![Videojáték listaoldal vázlata](docs/alkfej06.png)
+![Videojáték listaoldal vázlata](docs/alkfej06.jpg)
 
 #####Új játék felvétele
 
-![Új játék felvételére lehetőséget adó oldal vázlata](docs/alkfej07.png)
+![Új játék felvételére lehetőséget adó oldal vázlata](docs/alkfej07.jpg)
 
 #####Videojáték megtekintése
 
-![Videojáték adatlap oldal vázlata](docs/alkfej08.png)
+![Videojáték adatlap oldal vázlata](docs/alkfej08.jpg)
 
 ###1.9. Adatmodell
 
