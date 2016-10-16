@@ -1,1 +1,1 @@
-# listamanager
+# listamanager videojátékokhoz
