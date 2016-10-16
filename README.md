@@ -34,6 +34,8 @@ A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítsé
 -	**felhasználó**: a vendég szerepkörén túl a saját érdekelt játékok kezelésére (új, módosít, törlés) képes.
 
 ###1.4. Használati esetek
+
+![Kép felirata](docs/alkfej.png)
  
 ###1.5. Folyamatok meghatározás
  
