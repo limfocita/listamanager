@@ -42,9 +42,9 @@ A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítsé
 #####Bejelentkezés
 
 - A felhasználó a főoldalon rákattint a Bejelentkezés gombra
-- Megadja a felhasználónév és a hozzátartozó jelszót
-- Ha sikeresen adta meg az adatokat, akkor bejut a saját listájához
-- Ha nem, akkor újra bekéri az adatokat a felhasználótól
+- Megadja a felhasználónevét és a hozzátartozó jelszót
+- Ha sikeresen adta meg az adatokat, akkor bejut a saját videojáték listájához
+- Ha nem, akkor újra az oldal bekéri az adatokat a felhasználótól
 
 ![Folyamatok meghatározása](docs/alkfej01.png)
 
