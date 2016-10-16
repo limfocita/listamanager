@@ -38,8 +38,12 @@ A program legfőbb célja, hogy olyan alkalmazást nyújtson, amelynek segítsé
 ![Használati esetek](docs/alkfej.png)
  
 ###1.5. Folyamatok meghatározás
- 
+
+#####Bejelentkezés
+
 ![Folyamatok meghatározása](docs/alkfej01.png)
+
+#####Új videojáték felvétele
 
 ![Folyamatok meghatározása](docs/alkfej02.png)
 
